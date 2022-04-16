@@ -11,3 +11,7 @@ Module 15
 ## Deliverable 2
 ## Summary Statistics on Suspension Coils
 
+![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.38.58%20PM.png)
+
+
+![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.38.36%20PM.png)

@@ -28,11 +28,17 @@ For Deliverable 2, we read in the Suspension_coil file as a table. We then used 
 
 
 ## Deliverable 3
-
+Moving on to Deliverable 3, we conducted a t-test to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. We did a t-test on the total manufacturing lots first and then went lot by lot. 
 ![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.45.32%20PM.png)
 
+* The overall mean of the group was 1498.78 and our p value was .06, which is not enough evidence to reject our null hypothesis. 
 
 ![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.46.23%20PM.png)
+
+* When we looked lot by lot, the results varied 
+* Lot 1 had a mean of exactly 1500 and a p value of 1 so we can clearly not reject the null hypothesis
+* Lot 2 had a mean of 1500.2 and a p value of .6, again not enough to reject the null hypothesis
+* Lot 3 had a mean of 1496.14 but had a p value of .04, which is low enough to reject the null hypothesis. 
 
 
 ## Deliverable 4

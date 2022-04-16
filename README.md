@@ -16,12 +16,16 @@ In Deliverable 1, we read in the Mechacar_mpg file as a dataframe, which contain
 
 
 ## Deliverable 2
+
 ## Summary Statistics on Suspension Coils
+For Deliverable 2, we read in the Suspension_coil file as a table. We then used the summarize function to get the mean, median, variance, and standard deviation and created a total_summary dataframe. We then created a lot_summary dataframe using the subset, summarize and groupby functions so that we could analyze the same variables lot by lot. 
 
 ![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.38.58%20PM.png)
 
+* The variance of the suspension coils is not to exceed 100 pounds per square inch. When looking at the total_summary dataframe, the variance is well under 100 at 62.3. However, when comparing lot by lot, we saw that while lot 1 and lot 2 both had variances well under 100, lot 3 had a much higher variance at 170.29. Lot 3 is disproportionately affecting the total variance of the group and should be remedied.
 
 ![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.38.36%20PM.png)
+
 
 ## Deliverable 3
 

@@ -45,6 +45,7 @@ Moving on to Deliverable 3, we conducted a t-test to determine if all manufactur
 ## Study Design: MechaCar vs Competition
 For Deliverable 4, we are going to create a statistical study that compares Mechacar to its competitors. We are going to look at several metrics, including mpg, safety rating, fuel efficiency, and price. Price will be our dependent variable. 
 
+* Variables: MPG, Safety Rating, Fuel Efficiency, Price
 * Null Hypothesis (Ho): MechaCar is priced accurately considering multiple performance metrics across the vehicle market
 * Alternative Hypothesis (Ha): MechaCar is not priced accurately considering multiple performance metrics across the vehicle market 
 

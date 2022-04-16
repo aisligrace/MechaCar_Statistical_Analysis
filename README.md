@@ -8,6 +8,13 @@ In Deliverable 1, we read in the Mechacar_mpg file as a dataframe, which contain
 
 ![image](https://github.com/aisligrace/MechaCar_Statistical_Analysis/blob/main/Screen%20Shot%202022-04-16%20at%2012.17.48%20PM.png)
 
+* Vehicle_length and ground_clearance were the two metrics that would provide a non-random amount of variance to the mpg, as they had the highest P and T values. 
+
+* The slope of the linear model would not be 0. Our p value is 5.35e-11, which is much smaller than .05%. This indicates strong evidence against the null hypothesis. 
+
+* The r squared value of our linear model was 0.7149, or 71% accuracy. For the purposes of this analysis, we can say this model does predict mpg accurately. 
+
+
 ## Deliverable 2
 ## Summary Statistics on Suspension Coils
 
